@@ -37,16 +37,3 @@
  ![](con1.png)
  ![](con2.png)
  
- 
-3. Crear la clase WaterMonster
-
-    3.1 Se declaran las variables de la clase WaterMonster que seria nombre y ataque.
-
-    3.2 Se crea el constructor que obtendra los valores de las variables. 
-
-    3.3 Se escribe un to string para obtener el valor de todos los datos y organizarlos en una cadena alfanumerica. 
- 
-  ![](Water.png)
- 
- 
- 
